@@ -10,5 +10,8 @@ Alguns materiais de estudo para entender melhor sobre redes sociais :
 
   BURT, R. Brokerage and closure: an introduction to social capital. Oxford Press, 2007.
   Site russo: https://libgen.is/book/index.php?md5=459F6711EC4470A378DD418F6758CE54
+  
+  Adicionei um livro do Thomas Cormem de Algoritmos, teoria e prática caso vcs se interessem em se aprofundar em grafos e árvores
+  
 
 
